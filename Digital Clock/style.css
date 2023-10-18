@@ -1,0 +1,16 @@
+body {
+    background: rgb(48, 47, 47);
+}
+
+.clock {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    color: #e2cda1;
+    font-size: 100px;
+    font-family: "Trirong", serif;
+    letter-spacing: 7px;
+}
